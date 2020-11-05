@@ -1,0 +1,306 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BACKUP BEFORE COPY PASTING STUFF.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  credits.cpp
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\credits.cpp(12,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\credits.cpp(30,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\credits.cpp(30,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\credits.cpp(66,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+  SFML_2DCamera.cpp
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_2DCamera.cpp(5,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_2DCamera.cpp(5,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_AnimatedSpriteObject.cpp
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_AnimatedSpriteObject.cpp(77,108): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_AnimatedSpriteObject.cpp(77,90): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_Application.cpp
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_Application.cpp(66,60): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_Application.cpp(66,40): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_Application.cpp(114,43): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_Application.cpp(114,28): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  SFML_BulletSpriteObject.cpp
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_BulletSpriteObject.cpp(29,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_BulletSpriteObject.cpp(70,95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_BulletSpriteObject.cpp(70,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  SFML_GameMenu.cpp
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameMenu.cpp(24,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameMenu.cpp(24,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameMenu.cpp(31,40): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameMenu.cpp(32,41): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameMenu.cpp(44,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameMenu.cpp(44,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameMenu.cpp(160,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameMenu.cpp(161,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_GameWorld.cpp
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorld.cpp(30,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorld.cpp(30,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorld.cpp(40,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorld.cpp(40,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorld.cpp(67,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorld.cpp(67,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorld.cpp(68,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorld.cpp(68,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorld.cpp(119,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorld.cpp(119,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorld.cpp(130,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorld.cpp(130,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorld.cpp(135,32): warning C4018: '<': signed/unsigned mismatch
+  SFML_GameWorldLayer.cpp
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(12,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(13,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(13,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(14,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(32,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(33,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(34,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(35,13): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(38,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(38,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(39,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(39,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(40,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(40,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(41,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_GameWorldLayer.cpp(41,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_NPCSpriteObject.cpp
+  SFML_PlayableSpriteObject.cpp
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_PlayableSpriteObject.cpp(48,34): warning C4244: '/=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_PlayableSpriteObject.cpp(49,34): warning C4244: '/=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_PlayableSpriteObject.cpp(53,16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_PlayableSpriteObject.cpp(549,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SFML_SpriteAnimation.cpp
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_SpriteAnimation.cpp(35,58): warning C4018: '>=': signed/unsigned mismatch
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_SpriteAnimation.cpp(85,27): warning C4018: '>=': signed/unsigned mismatch
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_SpriteAnimation.cpp(96,27): warning C4018: '>=': signed/unsigned mismatch
+  SFML_SpriteObject.cpp
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_SpriteObject.cpp(29,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_SpriteObject.cpp(29,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_SpriteObject.cpp(86,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_SpriteObject.cpp(86,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_TitleScreen.cpp
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_TitleScreen.cpp(17,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\BACKUP BEFORE COPY PASTING STUFF\SFML_TitleScreen.cpp(17,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  BACKUP BEFORE COPY PASTING STUFF.vcxproj -> D:\old uni work\Uni Stuff\873299 - Connor Sutcliffe - SFML Assignment\Debug\Undead Ops Arcade.exe
